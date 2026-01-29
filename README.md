@@ -24,5 +24,3 @@
 - 📫 [Email](mailto:ahabdmer@gmail.com)
 
 ---
-
-> _“Data is the language of reality — I’m learning to speak it fluently.”_
