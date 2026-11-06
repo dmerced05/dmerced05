@@ -1,7 +1,7 @@
 # 👋 Hi  
 
 🎓 **Computer Science Student @ NSC**  
-💡 Aspiring **Data Scientist / Software Engineer** passionate about turning data into insight.  
+💡 **Data Scientist / Software Engineer** passionate about turning data into insight.  
 
 ---
 
@@ -9,13 +9,6 @@
 - **Languages:** Java, Python, SQL, JavaScript, HTML, CSS
 - **Tools:** Git, VS Code, Jupyter Notebook, JetBrains InteliJ
 - **Interests:** Machine Learning, Data Visualization, Video Games, Robots
-
----
-
-## 📊 Featured Projects
-### [🧩 Tabletop Interactive Map](https://github.com/hbdmer/tpd-interactive)
-> Javascript Based Interactive Map for a community tabletop game using React and Leaflet.  
-> **Skills:** JS, OOP, React, Leaflet, HTML, CSS  
 
 ---
 
